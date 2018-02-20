@@ -1,3 +1,4 @@
+% =======================================================
 % Copyright (c) 2005, Kyle Johnston
 % All rights reserved.
 % 
@@ -24,6 +25,7 @@
 % The views and conclusions contained in the software and documentation are those
 % of the authors and should not be interpreted as representing official policies,
 % either expressed or implied, of the FreeBSD Project.
+% =======================================================
 function [coords, group] = CircleInSquareGenerator(intNumberOfPoints, pFlip)
 
 xLim = [1 -1];
